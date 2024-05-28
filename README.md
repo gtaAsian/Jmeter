@@ -24,6 +24,8 @@
             <img width="1680" alt="Ảnh màn hình 2024-05-27 lúc 14 13 45" src="https://github.com/gtaAsian/Jmeter/assets/170786444/e9529079-f7f6-43e0-818d-535dc613f8c2">
             <li><p>Thời gian phản hồi trung bình: 8 giây</p></li>
             <li><p>Tỷ lệ yêu cầu thành công: 100%</p></li>
+            <li><p>Kết quả chi tiết:</p></li>
+            <img width="1680" alt="image" src="https://github.com/gtaAsian/Jmeter/assets/170786444/be21bb30-3ecf-4a72-b7bc-79b350d1e57d">
             </ul>
         <strong>Kịch Bản Kiểm Thử lần 2:</strong>
             <ul>
@@ -39,6 +41,9 @@
             <li><p>Trạng Thái: Thành công</p></li>
             <li><p>Kết quả sau khi test:</p></li>
             <img width="1680" alt="Ảnh màn hình 2024-05-27 lúc 14 15 15" src="https://github.com/gtaAsian/Jmeter/assets/170786444/27faca0c-1cec-49be-82cc-068c472e6a80">
-            <li><p>Thời gian phản hồi trung bình: vô hạn</p></li>
+            <li><p>Thời gian phản hồi trung bình: 14 giây</p></li>
             <li><p>Tỷ lệ yêu cầu thành công: 100%</p></li>
+            <li><p>Kết quả chi tiết</p></li>
             </ul>
+        <p><strong>5. Kết quả</strong></p>
+            <p>Trang web hoạt động khá tốt, thời gian phản hồi rất nhanh và tỉ lệ thật bại rất thập ngay cả khi với nhiều người dùng vào cùng một lúc</p>
